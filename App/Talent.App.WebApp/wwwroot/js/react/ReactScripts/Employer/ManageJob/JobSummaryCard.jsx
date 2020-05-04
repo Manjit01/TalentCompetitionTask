@@ -30,7 +30,7 @@ export class JobSummaryCard extends React.Component {
 
 	// button on click
 	closeJob(id) {
-		var link = 'http://localhost:51689/listing/listing/CloseJob';
+		var link = 'https://talentcompetitiontask.azurewebsites.net/listing/listing/CloseJob';
 		var cookies = Cookies.get('talentAuthToken');
 		$.ajax({
 			type: 'POST',

@@ -65,7 +65,8 @@ export default class ManageJob extends React.Component {
 
 	loadData(callback) {
 		const { filter, sortby, activePage } = this.state;
-		var link = 'http://localhost:51689/listing/listing/getSortedEmployerJobs?'
+		//var link = 'http://localhost:51689/listing/listing/getSortedEmployerJobs?'
+		var link = 'https://talentcompetitiontask.azurewebsites.net/listing/listing/getSortedEmployerJobs?'
 			+ qs.stringify(filter) + '&' + qs.stringify(sortby) + '&activePage=' + activePage;
 		//var link = 'http://localhost:51689/listing/listing/getSortedEmployerJobs';
 		var cookies = Cookies.get('talentAuthToken');
