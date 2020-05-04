@@ -31,3 +31,15 @@ C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talen
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
 C:\Talent-Competition\Talent\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.deps.json
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.json
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.runtimeconfig.dev.json
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\bin\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csprojAssemblyReference.cache
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfoInputs.cache
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.AssemblyInfo.cs
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.dll
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\Talent.App.WebApp.pdb
+C:\Users\hp pc\source\repos\talent-competition\talent-competition\App\Talent.App.WebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
